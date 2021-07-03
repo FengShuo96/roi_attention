@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="resources/mmdet-logo.png" width="600"/>
-</div>
-
 ## Introduction
 
-This is the code implementation of the RoI attention method we proposed.Our code is built on the basis of MMDetection.
+This is the code implementation of the RoI attention method. Our code is built on the basis of MMDetection.
 
 MMDetection is an open source object detection toolbox based on PyTorch. It is
 a part of the OpenMMLab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
@@ -23,7 +19,7 @@ We set up 4 config files to realize Global RoI Attention Module, three mannners 
 
 ## Main Results
 Model | mAP  | mAP@50 | mAP@75
---- |:---:|:---:|:---
+--- |:---:|:---:|:---:
 Faster R-CNN with FPN (baseline) | 28.4 | 50.0 | 29.0
 Global RoI Attention | 29.7 | 52.7 | 30.3 
 Self RoI Attention | 29.5 | 52.2 | 30.2 
