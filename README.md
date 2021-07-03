@@ -15,7 +15,7 @@ The implementation of the Self RoI Attention module is in [roi_attention_bbox_he
 
 ## Conifgs
 
-We set up 4 config files to realize Global RoI Attention Module, three mannners of Slef RoI Attention Module, and Cascade RoI Attention. Refer to [configs/tct](configs/tct) for details.
+We set up 5 config files to realize Global RoI Attention Module, three mannners of Slef RoI Attention Module, and Cascade RoI Attention. Refer to [configs/tct](configs/tct) for details. All methods are implemented on the basis of [faster_rcnn_r50_fpn](configs/tct/faster_rcnn_r50_fpn_1x_tct.py).
 
 ## Main Results
 Model | mAP  | mAP@50 | mAP@75
