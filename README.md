@@ -10,8 +10,8 @@ The master branch works with **PyTorch 1.6** and [**MMDetection v2.6.0**](https:
 
 ## Key code
 
-The implementation of the global attention module is in [single_level_roi_extractor_with_attention.py](mmdet/models/roi_heads/roi_extractors/single_level_roi_extractor_with_attention.py).
-The implementation of the self attention module is in [roi_attention_bbox_head.py](mmdet/models/roi_heads/bbox_heads/roi_attention_bbox_head.py).
+The implementation of the Global RoI Attention module is in [single_level_roi_extractor_with_attention.py](mmdet/models/roi_heads/roi_extractors/single_level_roi_extractor_with_attention.py).
+The implementation of the Self RoI Attention module is in [roi_attention_bbox_head.py](mmdet/models/roi_heads/bbox_heads/roi_attention_bbox_head.py).
 
 ## Conifgs
 
