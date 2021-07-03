@@ -32,4 +32,4 @@ Any pull requests or issues are welcome.
 
 ## Contact
 
-This repo is currently maintained by Shuo Feng ([@FengsShuo96](http://github.com/FengsShuo96)). 
+This repo is currently maintained by Shuo Feng ([@FengShuo96](https://github.com/FengShuo96)). 
